@@ -28,3 +28,4 @@ dist-ssr
 backend/venvnode_modules/
 .env
 .ssh
+.env*
